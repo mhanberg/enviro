@@ -33,7 +33,7 @@ company_number: 12354193
 # Build settings
 plugins:
   - jekyll-feed
-#  - jekyll-postcss
+  - jekyll-postcss
   - jekyll-purgecss
   - jekyll-seo-tag
 
